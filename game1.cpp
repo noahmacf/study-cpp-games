@@ -34,5 +34,7 @@ int main()
     ushort bonus = 10;
     cout << "\nbonus: " << bonus << endl;
 
+    cout << "Congrats, the game has ended.\n";
+
     return 0;
 }
