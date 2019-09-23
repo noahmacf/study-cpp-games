@@ -1,5 +1,7 @@
 # Program file names
 game1
+game2
+herosInventory
 
 # Prerequisites
 *.d
