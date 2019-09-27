@@ -9,6 +9,7 @@ finickyCounter
 dieRoller
 lostFortune
 random
+counter
 
 # Prerequisites
 *.d
