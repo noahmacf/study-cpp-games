@@ -10,6 +10,7 @@ dieRoller
 lostFortune
 random
 counter
+playAgain
 
 # Prerequisites
 *.d
