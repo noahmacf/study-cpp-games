@@ -11,6 +11,7 @@ lostFortune
 random
 counter
 playAgain
+menuChooser
 
 # Prerequisites
 *.d
