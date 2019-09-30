@@ -10,5 +10,5 @@ jobs:
     runs-on: macOS-latest
     steps: 
     - uses: actions/checkout@v1
-    - run: echo Hello World!
-    - run: echo Goodbye!
+    - run: make game1
+    - run: make game2
