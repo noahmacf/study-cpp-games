@@ -1,0 +1,13 @@
+# Gives the workflow a name
+name: builds
+
+# Trigger on push
+on: [push, pull_request]
+
+#
+jobs:
+  compiles:
+    runs-on: macOS-latest
+    steps: 
+    - run: echo Hello World!
+    - run: echo Goodbye!
