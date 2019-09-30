@@ -26,7 +26,7 @@ int main()
     cout << "engineTemp: " << engineTemp << endl;
 
     int fuel;
-    cout << "\nHow much fuel? ";
+    coutg << "\nHow much fuel? ";
     cin >> fuel;
     cout << "fuel: " << fuel << endl;
 
