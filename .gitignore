@@ -13,6 +13,7 @@ counter
 playAgain
 menuChooser
 referencing
+giveMeANumber
 
 # Prerequisites
 *.d
