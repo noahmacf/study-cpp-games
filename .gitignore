@@ -12,6 +12,7 @@ random
 counter
 playAgain
 menuChooser
+referencing
 
 # Prerequisites
 *.d
