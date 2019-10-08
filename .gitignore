@@ -15,6 +15,7 @@ menuChooser
 referencing
 giveMeANumber
 globalReach
+stringTester
 
 # Prerequisites
 *.d
