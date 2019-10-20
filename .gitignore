@@ -16,6 +16,7 @@ referencing
 giveMeANumber
 globalReach
 stringTester
+guessMyNumber
 
 # Prerequisites
 *.d
