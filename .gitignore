@@ -17,6 +17,7 @@ giveMeANumber
 globalReach
 stringTester
 guessMyNumber
+hangman
 
 # Prerequisites
 *.d
