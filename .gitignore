@@ -18,6 +18,7 @@ globalReach
 stringTester
 guessMyNumber
 hangman
+highScores
 
 # Prerequisites
 *.d
